@@ -1,3 +1,3 @@
 const mongoose = require('mongoose')
 
-mongoose.connect("mongodb://localhost/testdb")
+mongoose.connect("mongodb://localhost/CustomersInfo")
